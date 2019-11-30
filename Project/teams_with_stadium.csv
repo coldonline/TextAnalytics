@@ -1,33 +1,33 @@
-,key,ID,city,Name,conference,division,full_name,stadiumID,stadium_name,stadium_city,state,country,latitude,longitude,capacity,Average attendance
-0,ARI,1,Arizona,Cardinals,NFC,West,Arizona Cardinals,29,U of Phoenix Stadium,Glendale,AZ,USA,33.527558,-112.263036,63400,"62,014"
-1,ATL,2,Atlanta,Falcons,NFC,South,Atlanta Falcons,45,Mercedes-Benz Stadium,Atlanta,GA,USA,33.755000,-84.401000,71000,"72,898"
-2,BAL,3,Baltimore,Ravens,AFC,North,Baltimore Ravens,7,M&T Bank Stadium,Baltimore,MD,USA,39.277985,-76.622788,71008,"70,431"
-3,BUF,4,Buffalo,Bills,AFC,East,Buffalo Bills,1,New Era Field,Orchard Park,NY,USA,42.773758,-78.786837,73079,"64,962"
-4,CAR,5,Carolina,Panthers,NFC,South,Carolina Panthers,26,Bank of America Stadium,Charlotte,NC,USA,35.225808,-80.852861,73778,"73,773"
-5,CHI,6,Chicago,Bears,NFC,North,Chicago Bears,20,Soldier Field,Chicago,IL,USA,41.862320,-87.616699,61500,"61,344"
-6,CIN,7,Cincinnati,Bengals,AFC,North,Cincinnati Bengals,5,Paul Brown Stadium,Cincinnati,OH,USA,39.095309,-84.516003,65535,"50,754"
-7,CLE,8,Cleveland,Browns,AFC,North,Cleveland Browns,6,FirstEnergy Stadium,Cleveland,OH,USA,41.505885,-81.699458,71516,"65,765"
-8,DAL,9,Dallas,Cowboys,NFC,East,Dallas Cowboys,17,AT&T Stadium,Arlington,TX,USA,32.747778,-97.092778,80000,"91,620"
-9,DEN,10,Denver,Broncos,AFC,West,Denver Broncos,13,Broncos Stadium at Mile High,Denver,CO,USA,39.743936,-105.020097,76125,"76,446"
-10,DET,11,Detroit,Lions,NFC,North,Detroit Lions,21,Ford Field,Detroit,MI,USA,42.340021,-83.045777,65000,"62,758"
-11,GB,12,Green Bay,Packers,NFC,North,Green Bay Packers,22,Lambeau Field,Green Bay,WI,USA,44.501389,-88.061944,80750,"77,835"
-12,HOU,13,Houston,Texans,AFC,South,Houston Texans,11,NRG Stadium,Houston,TX,USA,29.684722,-95.410707,71054,"71,805"
-13,IND,14,Indianapolis,Colts,AFC,South,Indianapolis Colts,9,Lucas Oil Stadium,Indianapolis,IN,USA,39.760056,-86.163806,67000,"59,200"
-14,JAX,15,Jacksonville,Jaguars,AFC,South,Jacksonville Jaguars,10,TIAA Bank Field,Jacksonville,FL,USA,30.323813,-81.637199,67246,"69,074"
-15,KC,16,Kansas City,Chiefs,AFC,West,Kansas City Chiefs,15,Arrowhead Stadium,Kansas City,MO,USA,39.049002,-94.483864,76416,"75,973"
-16,LAC,29,Los Angeles,Chargers,AFC,West,Los Angeles Chargers,43,StubHub Center,Carson,CA,USA,33.858663,-118.256666,27000,"32,768"
-17,LAR,32,Los Angeles,Rams,NFC,West,Los Angeles Rams,38,Los Angeles Memorial Coliseum,Los Angeles,CA,USA,34.014167,-118.287778,93607,"72,430"
-18,MIA,19,Miami,Dolphins,AFC,East,Miami Dolphins,2,Hard Rock Stadium,Miami Gardens,FL,USA,25.957740,-80.238781,76100,"65,560"
-19,MIN,20,Minnesota,Vikings,NFC,North,Minnesota Vikings,42,U.S. Bank Stadium,Minneapolis,MN,USA,44.974288,-93.329728,66655,"66,811"
-20,NE,21,New England,Patriots,AFC,East,New England Patriots,4,Gillette Stadium,Foxborough,MA,USA,42.090866,-71.264244,68756,"65,878"
-21,NO,22,New Orleans,Saints,NFC,South,New Orleans Saints,27,Mercedes-Benz Superdome,New Orleans,LA,USA,29.950931,-90.081364,73208,"73,051"
-22,NYG,23,New York,Giants,NFC,East,New York Giants,3,MetLife Stadium,East Rutherford,NJ,USA,40.813611,-74.074444,82500,"76,941"
-23,NYJ,24,New York,Jets,AFC,East,New York Jets,3,MetLife Stadium,East Rutherford,NJ,USA,40.813611,-74.074444,82500,"77,982"
-24,OAK,25,Oakland,Raiders,AFC,West,Oakland Raiders,16,Oakland Coliseum,Oakland,CA,USA,37.751613,-122.200509,53200,"57,919"
-25,PHI,26,Philadelphia,Eagles,NFC,East,Philadelphia Eagles,18,Lincoln Financial Field,Philadelphia,PA,USA,39.900771,-75.167469,68532,"69,696"
-26,PIT,28,Pittsburgh,Steelers,AFC,North,Pittsburgh Steelers,8,Heinz Field,Pittsburgh,PA,USA,40.446751,-80.015707,65050,"63,456"
-27,SEA,30,Seattle,Seahawks,NFC,West,Seattle Seahawks,31,CenturyLink Field,Seattle,WA,USA,47.595153,-122.331625,67000,"69,001"
-28,SF,31,San Francisco,49ers,NFC,West,San Francisco 49ers,37,Levi's Stadium,Santa Clara,CA,USA,37.404108,-121.970274,68500,"69,149"
-29,TB,33,Tampa Bay,Buccaneers,NFC,South,Tampa Bay Buccaneers,24,Raymond James Stadium,Tampa Bay,FL,USA,27.975967,-82.503350,65890,"54,357"
-30,TEN,34,Tennessee,Titans,AFC,South,Tennessee Titans,12,Nissan Stadium,Nashville,TN,USA,36.166441,-86.771253,6914,"64,520"
-31,WAS,35,Washington,Redskins,NFC,East,Washington Redskins,19,FedEx Field,Landover,MD,USA,38.907652,-76.864479,85000,"61,028"
+,key,ID,Team_x,Name,conference,division,full_name,stadiumID,stadium_name,state,country,latitude,longitude,capacity,Average attendance,Metro
+0,ARI,1,Arizona,Cardinals,NFC,West,Arizona Cardinals,29,U of Phoenix Stadium,AZ,USA,33.527558,-112.263036,63400,"62,014",Phoenix
+1,ATL,2,Atlanta,Falcons,NFC,South,Atlanta Falcons,45,Mercedes-Benz Stadium,GA,USA,33.755000,-84.401000,71000,"72,898",Atlanta
+2,BAL,3,Baltimore,Ravens,AFC,North,Baltimore Ravens,7,M&T Bank Stadium,MD,USA,39.277985,-76.622788,71008,"70,431",Baltimore
+3,BUF,4,Buffalo,Bills,AFC,East,Buffalo Bills,1,New Era Field,NY,USA,42.773758,-78.786837,73079,"64,962",Buffalo
+4,CAR,5,Carolina,Panthers,NFC,South,Carolina Panthers,26,Bank of America Stadium,NC,USA,35.225808,-80.852861,73778,"73,773",Charlotte
+5,CHI,6,Chicago,Bears,NFC,North,Chicago Bears,20,Soldier Field,IL,USA,41.862320,-87.616699,61500,"61,344",Chicago
+6,CIN,7,Cincinnati,Bengals,AFC,North,Cincinnati Bengals,5,Paul Brown Stadium,OH,USA,39.095309,-84.516003,65535,"50,754",Cincinnati
+7,CLE,8,Cleveland,Browns,AFC,North,Cleveland Browns,6,FirstEnergy Stadium,OH,USA,41.505885,-81.699458,71516,"65,765",Cleveland
+8,DAL,9,Dallas,Cowboys,NFC,East,Dallas Cowboys,17,AT&T Stadium,TX,USA,32.747778,-97.092778,80000,"91,620",Dallas
+9,DEN,10,Denver,Broncos,AFC,West,Denver Broncos,13,Broncos Stadium at Mile High,CO,USA,39.743936,-105.020097,76125,"76,446",Denver
+10,DET,11,Detroit,Lions,NFC,North,Detroit Lions,21,Ford Field,MI,USA,42.340021,-83.045777,65000,"62,758",Detroit
+11,GB,12,Green Bay,Packers,NFC,North,Green Bay Packers,22,Lambeau Field,WI,USA,44.501389,-88.061944,80750,"77,835",Green Bay
+12,HOU,13,Houston,Texans,AFC,South,Houston Texans,11,NRG Stadium,TX,USA,29.684722,-95.410707,71054,"71,805",Houston
+13,IND,14,Indianapolis,Colts,AFC,South,Indianapolis Colts,9,Lucas Oil Stadium,IN,USA,39.760056,-86.163806,67000,"59,200",Indianapolis
+14,JAX,15,Jacksonville,Jaguars,AFC,South,Jacksonville Jaguars,10,TIAA Bank Field,FL,USA,30.323813,-81.637199,67246,"69,074",Jacksonville
+15,KC,16,Kansas City,Chiefs,AFC,West,Kansas City Chiefs,15,Arrowhead Stadium,MO,USA,39.049002,-94.483864,76416,"75,973",Kansas City
+16,LAC,29,Los Angeles,Chargers,AFC,West,Los Angeles Chargers,43,StubHub Center,CA,USA,33.858663,-118.256666,27000,"32,768",Los Angeles
+17,LAR,32,Los Angeles,Rams,NFC,West,Los Angeles Rams,38,Los Angeles Memorial Coliseum,CA,USA,34.014167,-118.287778,93607,"72,430",Los Angeles
+18,MIA,19,Miami,Dolphins,AFC,East,Miami Dolphins,2,Hard Rock Stadium,FL,USA,25.957740,-80.238781,76100,"65,560",Miami
+19,MIN,20,Minnesota,Vikings,NFC,North,Minnesota Vikings,42,U.S. Bank Stadium,MN,USA,44.974288,-93.329728,66655,"66,811",Minneapolis
+20,NE,21,New England,Patriots,AFC,East,New England Patriots,4,Gillette Stadium,MA,USA,42.090866,-71.264244,68756,"65,878",Boston
+21,NO,22,New Orleans,Saints,NFC,South,New Orleans Saints,27,Mercedes-Benz Superdome,LA,USA,29.950931,-90.081364,73208,"73,051",New Orleans
+22,NYG,23,New York,Giants,NFC,East,New York Giants,3,MetLife Stadium,NJ,USA,40.813611,-74.074444,82500,"76,941",New York
+23,NYJ,24,New York,Jets,AFC,East,New York Jets,3,MetLife Stadium,NJ,USA,40.813611,-74.074444,82500,"77,982",New York
+24,OAK,25,Oakland,Raiders,AFC,West,Oakland Raiders,16,Oakland Coliseum,CA,USA,37.751613,-122.200509,53200,"57,919",Oakland
+25,PHI,26,Philadelphia,Eagles,NFC,East,Philadelphia Eagles,18,Lincoln Financial Field,PA,USA,39.900771,-75.167469,68532,"69,696",Philadelphia
+26,PIT,28,Pittsburgh,Steelers,AFC,North,Pittsburgh Steelers,8,Heinz Field,PA,USA,40.446751,-80.015707,65050,"63,456",Pittsburgh
+27,SEA,30,Seattle,Seahawks,NFC,West,Seattle Seahawks,31,CenturyLink Field,WA,USA,47.595153,-122.331625,67000,"69,001",Seattle
+28,SF,31,San Francisco,49ers,NFC,West,San Francisco 49ers,37,Levi's Stadium,CA,USA,37.404108,-121.970274,68500,"69,149",San Francisco
+29,TB,33,Tampa Bay,Buccaneers,NFC,South,Tampa Bay Buccaneers,24,Raymond James Stadium,FL,USA,27.975967,-82.503350,65890,"54,357",Tampa Bay
+30,TEN,34,Tennessee,Titans,AFC,South,Tennessee Titans,12,Nissan Stadium,TN,USA,36.166441,-86.771253,6914,"64,520",Nashville
+31,WAS,35,Washington,Redskins,NFC,East,Washington Redskins,19,FedEx Field,MD,USA,38.907652,-76.864479,85000,"61,028",Washington
